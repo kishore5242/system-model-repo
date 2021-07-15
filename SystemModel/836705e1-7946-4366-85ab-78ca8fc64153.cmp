@@ -1,0 +1,11 @@
+{
+  "id": "836705e1-7946-4366-85ab-78ca8fc64153",
+  "name": "c1",
+  "type": "service",
+  "relationships": {
+    "depends-on": [
+      "a9962a7f-aac8-42d6-83d4-b3fb7f334707",
+      "5aa01d27-76ef-4e44-bd4d-9a76e713f882"
+    ]
+  }
+}

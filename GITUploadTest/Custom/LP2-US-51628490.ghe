@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1582619334519" createdUser="RICHARD.LITTLEJR" id="383b51c1:1707b7695ad:-7f68" type="environment_resource" updatedTimestamp="1582919845684" updatedUser="RICHARD.LITTLEJR" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig isOverridingSecretsNamespace="false" overridingSecretsNamespace="">
+      <environmentVariable evdescription="" key="LogValue" value="LP2-EnvVariableUpdated"/>
+   </resourceConfig>
+</editableResource>

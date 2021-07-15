@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1582878952167" createdUser="RICHARD.LITTLEJR" id="-6bebecb8:1708ae7ea57:-7db6" type="environment_resource" updatedTimestamp="1582878952167" updatedUser="RICHARD.LITTLEJR" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig isOverridingSecretsNamespace="false" overridingSecretsNamespace="">
+      <environmentVariable evdescription="" key="LogValue" value="Env2-EnvVariable"/>
+   </resourceConfig>
+</editableResource>

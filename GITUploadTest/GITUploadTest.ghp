@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_c buildID="I20200224_0320" certificateAuthority="KEY_1024_BITS"
+    comments="Project created on February 25, 2020"
+    creationVersion="10.1.0" domain="default" extDocPrefix=""
+    name="GITUploadTest" owner="RICHARD.LITTLEJR"
+    rulesCacheUri="%%PROJECT/ROOT%%Rules" uuid="00000170-7b76-94ca-0002-b43568a6f000">
+    <rootEnvironmentConfig isOverridingSecretsNamespace="false" overridingSecretsNamespace="">
+        <environmentVariable evdescription="" key="LogValue" value=""/>
+    </rootEnvironmentConfig>
+    <dateTimeConfig date="yyyy/MM/dd" dateTime="dd-MMM-yyyy HH:mm:ss" time="HH:mm:ss.SSS"/>
+    <serverSettings ghRepositoryURL="https://10.134.59.189:5443/RTCP"
+        trustSource="INBUILT_CA" trustStorePath="">
+        <dbConnectionParameters maxConnections="1" poolName="DefaultPoolName">
+            <connectionParams ZOSEnv="false"
+                dpsHost="http://&lt;hostname>:&lt;port>/api/v1/profile"
+                dpsPass="#com.ghc.1!de8a" dpsUser=""
+                driverClass="oracle.jdbc.OracleDriver"
+                password="#com.ghc.1!0da2116355730CED6A4540C4213C7E03128A4AC9"
+                url="jdbc:oracle:thin:@ghwin2k8.nonprod.hclpnp.com:1521/pdb" user="hr">
+                <dpsSsl useSsl="false"/>
+                <stubSettings maxProcCallCount="10000"
+                    maxResultSetRowCount="10000" maxRowCount="10000"
+                    password="#com.ghc.1!1e55"
+                    procedureLearningBehaviour="1" schema="" url=""
+                    useIntegratedDB="true" useSsl="false" user=""/>
+                <storedProcedureFilter catalogFilterEnabled="false"
+                    catalogFilterPattern=""
+                    procedureFilterEnabled="false"
+                    procedureFilterPattern="" schemaFilterEnabled="true"
+                    schemaFilterPattern="hr"
+                    storedProceduresRetrievalEnabled="false" useConnectionUsername="true"/>
+                <timestampFormatting timestampFormatZero="false"
+                    timestampFormattingEnabled="false" timestampPrecision="9"/>
+            </connectionParams>
+        </dbConnectionParameters>
+        <automationServer enabled="false" hostname="" port="443"
+            projectId="-1" projectName="--No Project Selected--"
+            publishResults="false" trustSource="TRUST_ALL"
+            trustStorePassword="#com.ghc.1!2eb4" trustStorePath=""/>
+    </serverSettings>
+    <permissionsSettings autoLogin="true" host="US-PNP-DC05"
+        permFactId="ldap.permissions.factory.none" port="389" pswd="2jmj7l5rSw0yVb/vlWAYkK/YBwk="/>
+    <resultPublishers disableAll="false"/>
+</_c>
